@@ -1,0 +1,2 @@
+# Punta
+Wordpress Theme
